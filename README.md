@@ -62,7 +62,7 @@
 4. [MasterSCADA 4D](https://masterscada.ru/download4).
 4. [Инструкция по загрузке ПО MastersSCADA 4D](https://docs.google.com/document/d/13jDH8mqTwOePICQuc0o2sfBaAQhGyeZ0rGnzL_DHZ8o/edit?usp=sharing).
 5. [Инструкция по установке платформы nanoCAD](https://docs.google.com/presentation/d/1E5cgmdySQHRs7mX5v0GNZqZWmRzVVc3osXE2-queDwk/edit?usp=sharing).
-6. [Техническое задание](https://docs.google.com/document/d/1TBjyVoP65fEyx6a2ZjyQarB16WyLETFiQP5SEh9pq4U/edit?usp=sharing).
+6. [Техническое задание](https://docs.google.com/document/d/1eDEYl_xtXEAELA3TSUqPLjWoCJOFyp2KVwZGPySkgWs/edit?usp=sharing).
 7. [Шаблон спецификации](https://docs.google.com/spreadsheets/d/1BdMG-EkZNaT82Bf-Lh1p2s9I25VJAvjZV7f9jB9GtuQ/edit?usp=sharing).
 8. [Шаблон для дипломного проекта](https://docs.google.com/document/d/1syuRp_KMY9Vj1X58U7BP1Kn0W9HTMInL4Ahvn2P5W7Q/edit?usp=sharing).
 
@@ -74,7 +74,7 @@
 2. Сделайте копию файла [«Шаблон для дипломного проекта»](https://docs.google.com/document/d/1syuRp_KMY9Vj1X58U7BP1Kn0W9HTMInL4Ahvn2P5W7Q/edit?usp=sharing) на свой Google Диск.
 3. Зайдите в «Настройки доступа» скопированного шаблона и выберите доступ «Просматривать могут все в интернете, у кого есть ссылка». Инструкция «Как предоставить доступ к файлам и папкам на Google Диске» [по ссылке](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop).
 4. В названии файла введите ваши фамилию и имя.
-5. В соответствии с [техническим заданием](https://docs.google.com/document/d/1TBjyVoP65fEyx6a2ZjyQarB16WyLETFiQP5SEh9pq4U/edit?usp=sharing) спроектируйте учебный проект АСУ ТП.
+5. В соответствии с [техническим заданием](https://docs.google.com/document/d/1eDEYl_xtXEAELA3TSUqPLjWoCJOFyp2KVwZGPySkgWs/edit?usp=sharing) спроектируйте учебный проект АСУ ТП.
 6. Сохраните файлы проекта и документацию на своём Google Диске.
 7. Вставьте в соответствующие абзацы шаблона для дипломного проекта ссылки на файлы и необходимые скрины выполненного задания.
 8. Для проверки дипломного проекта отправьте ссылку на ваш документ в личном кабинете.
