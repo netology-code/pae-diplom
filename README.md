@@ -18,16 +18,16 @@
 ### Чеклист готовности к работе над проектом
 
 1. Установите пакет TIA Portal по подсказке ниже.
-2. Скачайте [MasterSCADA 4D](https://masterscada.ru/download4) по [инструкции](https://docs.google.com/document/d/13jDH8mqTwOePICQuc0o2sfBaAQhGyeZ0rGnzL_DHZ8o/edit?usp=sharing) и установите ПО.
+2. Скачайте [MasterSCADA 4D](https://masterscada.ru/download4) по [инструкции](https://u.netology.ru/backend/uploads/lms/content_assets/file/5830/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B5_%D0%9F%D0%9E_MastersSCADA_4D.docx) и установите ПО.
 
  **Примечание:** использование MasterSCADA 4D является рекомендованным, блок работы с проектом в SCADA можно выполнить в любом ПО SCADA. Укажите в шаблоне название и версию ПО, приложите соответствующие файлы и скрины проекта.
 
-3. Установите платформу nanoCAD, зарегистрируйте её, используя [инструкцию](https://docs.google.com/presentation/d/1E5cgmdySQHRs7mX5v0GNZqZWmRzVVc3osXE2-queDwk/edit?usp=sharing).
+3. Установите платформу nanoCAD, зарегистрируйте её, используя [инструкцию](https://u.netology.ru/backend/uploads/lms/content_assets/file/5397/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B5_nanoCAD.pptx).
 
 <details>
   <summary> Подсказка по установке TIA Portal V13 с официального ресурса Siemens.</summary>
 
-1. Зарегистрируйтесь на [портале Siemens](https://mall.industry.siemens.com/goos/WelcomePage.aspx?regionUrl=/ru&language=ru) и получите персональный логин и пароль для входа в систему. Процесс регистрации описан в [инструкции](https://docs.google.com/presentation/d/1RPHvCE2OxBbHRMWSAV2E-HxscZvR2nRIZVHCy8hvjJE/edit?usp=sharing).
+1. Зарегистрируйтесь на [портале Siemens](https://mall.industry.siemens.com/goos/WelcomePage.aspx?regionUrl=/ru&language=ru) и получите персональный логин и пароль для входа в систему. Процесс регистрации описан в [инструкции](https://u.netology.ru/backend/uploads/lms/content_assets/file/338/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D0%B8_%D0%BD%D0%B0_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D0%B5_Siemens.pptx).
 2. Загрузите с [официального ресурса Siemens](https://support.industry.siemens.com/cs/document/78793685/simatic-step-7-(tia-portal)-v13-trial-download?dti=0&lc=en-DE) и установите программное обеспечение для создания проекта PLC Siemens, входящее в состав пакета TIA Portal. 
 3. Скачайте все файлы по [ссылке](https://support.industry.siemens.com/cs/document/109745155/simatic-step-7-including-plcsim-v13-sp2-trial-download?dti=0&lc=en-DE) в две отдельные папки:
 
@@ -58,7 +58,7 @@
 Скрин с действиями дан ниже:
  ![image](https://github.com/netology-code/scada-4-homeworks/blob/scada-7/WinRAR.png)
   
-**Обратите внимание.** Устанавливается демо-версия программы. Её функционал будет ограничен через 21 день после установки. Рекомендуем установку софта на виртуальной машине. Как это сделать, описано в [инструкции](https://docs.google.com/presentation/d/1psnSlotXT7cr8ECnaZaTCDLnIyYOGUzCArLeydeRztY/edit?usp=sharing).
+**Обратите внимание.** Устанавливается демо-версия программы. Её функционал будет ограничен через 21 день после установки. Рекомендуем установку софта на виртуальной машине. Как это сделать, описано в [инструкции](https://u.netology.ru/backend/uploads/lms/content_assets/file/339/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8E_%D0%B2%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D1%8B_%D0%B8_%D0%BE%D1%82%D0%BA%D0%B0%D1%82%D1%83.pptx).
 
  -----
 
@@ -73,24 +73,24 @@
 ### Инструменты и дополнительные материалы для выполнения задания
 
 1. [TIA Portal v13](https://support.industry.siemens.com/cs/document/78793685/simatic-step-7-(tia-portal)-v13-trial-download?dti=0&lc=en-DE).
-2. [Инструкция по созданию виртуальной машины](https://docs.google.com/presentation/d/1psnSlotXT7cr8ECnaZaTCDLnIyYOGUzCArLeydeRztY/edit?usp=sharing).
+2. [Инструкция по созданию виртуальной машины](https://u.netology.ru/backend/uploads/lms/content_assets/file/339/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8E_%D0%B2%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D1%8B_%D0%B8_%D0%BE%D1%82%D0%BA%D0%B0%D1%82%D1%83.pptx).
 3. [ГОСТ 21.208-2013](https://mvif.ru/uslovnyie-oboznacheniya-priborov-i-sredstv-avtomatizaczii-v-sxemax-gost-21.404-85).
 4. [MasterSCADA 4D](https://masterscada.ru/download4).
-4. [Инструкция по загрузке ПО MastersSCADA 4D](https://docs.google.com/document/d/13jDH8mqTwOePICQuc0o2sfBaAQhGyeZ0rGnzL_DHZ8o/edit?usp=sharing).
-5. [Инструкция по установке платформы nanoCAD](https://docs.google.com/presentation/d/1E5cgmdySQHRs7mX5v0GNZqZWmRzVVc3osXE2-queDwk/edit?usp=sharing).
-6. [Техническое задание](https://docs.google.com/document/d/1eDEYl_xtXEAELA3TSUqPLjWoCJOFyp2KVwZGPySkgWs/edit?usp=sharing).
-7. [Шаблон спецификации](https://docs.google.com/spreadsheets/d/1BdMG-EkZNaT82Bf-Lh1p2s9I25VJAvjZV7f9jB9GtuQ/edit?usp=sharing).
-8. [Шаблон для дипломного проекта](https://docs.google.com/document/d/1syuRp_KMY9Vj1X58U7BP1Kn0W9HTMInL4Ahvn2P5W7Q/edit?usp=sharing).
+4. [Инструкция по загрузке ПО MastersSCADA 4D](https://u.netology.ru/backend/uploads/lms/content_assets/file/5830/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B5_%D0%9F%D0%9E_MastersSCADA_4D.docx).
+5. [Инструкция по установке платформы nanoCAD](https://u.netology.ru/backend/uploads/lms/content_assets/file/5397/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B5_nanoCAD.pptx).
+6. [Техническое задание](https://u.netology.ru/backend/uploads/lms/content_assets/file/5831/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%BC%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B5.docx).
+7. [Шаблон спецификации](https://u.netology.ru/backend/uploads/lms/content_assets/file/5832/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F.xlsx).
+8. [Шаблон для дипломного проекта](https://u.netology.ru/backend/uploads/lms/content_assets/file/5833/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0__%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F__-_%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98%D0%BC%D1%8F__%D0%A1%D0%94%D0%95%D0%9B%D0%90%D0%99%D0%A2%D0%95_%D0%9A%D0%9E%D0%9F%D0%98%D0%AE_.docx).
 
 ------
 
 ### Инструкция к работе над проектом
 
 1. Выполните установку необходимых программных инструментов из файла **«Чеклист готовности к курсовой работе».**
-2. Сделайте копию файла [«Шаблон для дипломного проекта»](https://docs.google.com/document/d/1syuRp_KMY9Vj1X58U7BP1Kn0W9HTMInL4Ahvn2P5W7Q/edit?usp=sharing) на свой Google Диск.
+2. Сделайте копию файла [«Шаблон для дипломного проекта»](https://u.netology.ru/backend/uploads/lms/content_assets/file/5833/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0__%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F__-_%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98%D0%BC%D1%8F__%D0%A1%D0%94%D0%95%D0%9B%D0%90%D0%99%D0%A2%D0%95_%D0%9A%D0%9E%D0%9F%D0%98%D0%AE_.docx) на свой Google Диск.
 3. Зайдите в «Настройки доступа» скопированного шаблона и выберите доступ «Просматривать могут все в интернете, у кого есть ссылка». Инструкция «Как предоставить доступ к файлам и папкам на Google Диске» [по ссылке](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop).
 4. В названии файла введите ваши фамилию и имя.
-5. В соответствии с [техническим заданием](https://docs.google.com/document/d/1eDEYl_xtXEAELA3TSUqPLjWoCJOFyp2KVwZGPySkgWs/edit?usp=sharing) выполните учебный проект АСУ ТП.
+5. В соответствии с [техническим заданием](https://u.netology.ru/backend/uploads/lms/content_assets/file/5831/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%BC%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B5.docx) выполните учебный проект АСУ ТП.
 6. Сохраните файлы проекта и документацию на своём Google Диске.
 7. Вставьте в соответствующие абзацы шаблона для дипломного проекта ссылки на файлы и необходимые скрины выполненного задания.
 8. Для проверки дипломного проекта отправьте ссылку на ваш документ в личном кабинете.
